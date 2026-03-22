@@ -83,7 +83,18 @@
     撥打電話至課程負責人(阿銓):0912123456<br>
     <A HREF="http://www.nuk.edu.tw">連結到夏令營報名專頁</A><br>
 
-    <IMG SRC="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi684QC1LVm0cFB8PicYAUI_oF6PuxpN6Ktw&s" ALT="高雄大學夏令營活動照片"></IMG>
-    
+    <h2>填寫資料</h2>
+    姓名:<input type="text" placeholder="your name" name="nName"><br>
+    電話:<input type="phone"placeholder="phome number" name="phonenum"><br>
+    飲食
+    葷<input type="radio" name="eat" value="m" checked>
+    素<input type="radio" name="eat" value="v"><br>
+    其他事項<br>
+    <textarea name = "comment" rows="10"cols="80">
+</textarea><br>
+
+    <input type ="submit"><input type = "reset">
+<br>
+    <IMG SRC="https://media.nownews.com/nn_media/thumbnail/2023/05/1684734723268-09b7722a249b41389953eea1445213a3-1200x900.jpg?unShow=true" ALT="高雄大學夏令營活動照片"></IMG>
 </body>
 </html>
