@@ -13,3 +13,4 @@ if ($link->connect_error) {
 // 設定編碼，確保中文不亂碼
 $link->set_charset("utf8mb4");
 ?>
+ 
